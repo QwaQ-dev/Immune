@@ -131,9 +131,9 @@ GameObject:
   m_Component:
   - component: {fileID: 35738086}
   - component: {fileID: 35738085}
+  - component: {fileID: 35738087}
   - component: {fileID: 35738084}
   - component: {fileID: 35738083}
-  - component: {fileID: 35738087}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -150,11 +150,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 35738082}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4efe90617a47f2b44b6b47fab3a89e73, type: 3}
+  m_Script: {fileID: 11500000, guid: 71e06178d852052488c3f3f060c13245, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  lookSpeed: 3
+  camSpeed: 3
 --- !u!114 &35738084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 35738082}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50c4eca827ba117479d17ad500f3b777, type: 3}
+  m_Script: {fileID: 11500000, guid: ca7a4a5043525db40a43553490f0f25e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 1544327313}
